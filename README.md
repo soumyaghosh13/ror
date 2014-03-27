@@ -1,4 +1,3 @@
-ror
-===
+#Ruby On Rails
 
-fun with ruby_on_rails
+## Sample App to check how rails work.
